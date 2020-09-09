@@ -16,6 +16,6 @@ In questo tutorial vedremo le sue principali funzionalità in meno di 100 minuti
 
 
 
-[Apri il Notebook su Github](https://github.com/ProfAI/Python-in-60-minuti/blob/master/python_in_60_minuti.ipynb)
+[Apri il Notebook su Github](https://github.com/ProfAI/Python-in-100-minuti/blob/master/python_in_100_minuti.ipynb)
 <br>
-[Esegui il Notebook su Colab](https://colab.research.google.com/github/ProfAI/Python-in-60-minuti/blob/master/python_in_60_minuti.ipynb)
+[Esegui il Notebook su Colab](https://colab.research.google.com/github/ProfAI/Python-in-100-minuti/blob/master/python_in_100_minuti.ipynb)
